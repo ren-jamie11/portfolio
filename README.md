@@ -38,9 +38,18 @@ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beauti
 
 ## Projects
 
+#### [Book Recommender with GoodReads Scraper](https://github.com/ren-jamie11/book_recommender/tree/main)
+
+- Personalized book recommender using Goodreads data using parallelized BeautifulSoup scraper (16K+ books, 175K+ users, 470K+ ratings)
+- Uses user's Goodreads ID to automatically retrieve their ratings to provide relevant, interesting, and high-quality recommendations
+- Constructed user-based neighborhood model with normalized user-item matrix to provide recs by k-most-similar users based on genre preferences and individual book ratings
+- End-to-end data science project: Feature design -> data collection -> ML techniques -> front-end UI
+
+
 #### [Yield Curve Modeling with Nelson-Siegel + Linear Regression](https://github.com/ren-jamie11/nelson_siegel)
 
 Applied dimension reduction technique to transform US Treasury yield curve to time series of (β₁, β₂, β₃), then analyzed regression results of macroeconomic variables on these new response features vs. OLS on original yield curve values 
+
 #### [Poker Hand vs Range Probability Tool](https://github.com/ren-jamie11/poker_gui)
 
 Built a Python application that displays exact probabilities of each hand type and opponent's win odds on flop, turn, and river when given opponent's hand range.
