@@ -41,9 +41,9 @@ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beauti
 #### [Book Recommender with GoodReads Scraper](https://github.com/ren-jamie11/book_recommender/tree/main)
 
 - Personalized book recommender using Goodreads data using parallelized BeautifulSoup scraper (16K+ books, 175K+ users, 470K+ ratings)
-- Uses user's Goodreads ID to automatically retrieve their ratings to provide relevant, interesting, and high-quality recommendations
+- Uses user's Goodreads ID to automatically retrieve book ratings to provide relevant, interesting, and high-quality recommendations
 - Constructed user-based neighborhood model with normalized user-item matrix to provide recs by k-most-similar users based on genre preferences and individual book ratings
-- End-to-end data science project: Feature design -> data collection -> ML techniques -> front-end UI
+- Full-stack project covering data engineering, feature design, and ML techniques
 
 
 #### [Yield Curve Modeling with Nelson-Siegel + Linear Regression](https://github.com/ren-jamie11/nelson_siegel)
