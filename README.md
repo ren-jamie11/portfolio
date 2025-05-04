@@ -37,19 +37,21 @@ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beauti
 
 #### [Book Recommender with GoodReads Scraper](https://github.com/ren-jamie11/book_recommender/tree/main)
 
-- Personalized recommender using Goodreads data collected with parallelized BeautifulSoup scraper (16K+ books, 175K+ users, 470K+ ratings) 
-- Provides recs from k-most-similar users based on genre preferences and individual book ratings (using normalized user-item matrix and cosine similarities)
+- Personalized recommender using data collected with parallelized BeautifulSoup scraper (16K+ books, 175K+ users, 470K+ ratings) 
+- Generates recs from k-most-similar users using genre preferences and book ratings via normalized user-item matrix and cosine similarities
 - Easy to use: Enter Goodreads user_id to pull user data from website and provide recommendations in <10 seconds
 - Full-stack project covering data engineering, feature design, and ML techniques (collaborative filtering, user-based neighborhood models)
 
 
 #### [Yield Curve Modeling with Nelson-Siegel + Linear Regression](https://github.com/ren-jamie11/nelson_siegel)
 
-Applied dimension reduction technique to transform US Treasury yield curve to time series of (β₁, β₂, β₃), then analyzed regression results of macroeconomic variables on these new response features vs. OLS on original yield curve values 
+- Applied parametric dimension reduction technique to transform US Treasury yield curve data spanning 20 years to time series of (β₁, β₂, β₃)
+- Analyzed regression results of macroeconomic variables on these new response features vs. OLS on original yield curve values 
 
 #### [Poker Hand vs Range Probability Tool](https://github.com/ren-jamie11/poker_gui)
 
-Built a Python application that displays exact probabilities of each hand type and opponent's win odds on flop, turn, and river when given opponent's hand range.
+- Built Python app with GUI that displays real-time poker analytics, hand probabilities and win odds
+- Calculates exact probabilities of each hand given flop and opponent's range assumptions in 0.1 second
 
 <img src="https://ren-jamie11.github.io/portfolio/assets/img/gui2.png" alt="Alt text" width="1000">
 
