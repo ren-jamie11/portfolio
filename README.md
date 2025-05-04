@@ -50,7 +50,7 @@ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beauti
 
 #### [Poker Hand vs Range Probability Tool](https://github.com/ren-jamie11/poker_gui)
 
-- Built Python app with GUI that displays real-time poker analytics, hand probabilities and win odds
+- Built Python app with GUI that displays real-time poker analytics, hand probabilities, and win odds
 - Calculates exact probabilities of each hand given flop and opponent's range assumptions in 0.1 second
 
 <img src="https://ren-jamie11.github.io/portfolio/assets/img/gui2.png" alt="Alt text" width="1000">
