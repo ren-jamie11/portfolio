@@ -39,7 +39,7 @@ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beauti
 
 - Personalized recommender using data collected with parallelized BeautifulSoup scraper (16K+ books, 175K+ users, 470K+ ratings) 
 - Generates recs from k-nearest users based on genre/book preferences using normalized user-item matrix and cosine similarities
-- Easy to use: Enter Goodreads user_id to pull user data from website and provide recommendations in <10 seconds
+- Generates high-quality recommendations in <10 seconds by pulling personal Goodreads data from inputted user_ID
 - Full-stack project covering data engineering, feature design, and ML techniques (collaborative filtering, user-based neighborhood models)
 
 
