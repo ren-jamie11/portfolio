@@ -45,7 +45,7 @@ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beauti
 
 #### [Yield Curve Modeling with Nelson-Siegel + Linear Regression](https://github.com/ren-jamie11/nelson_siegel)
 
-- Applied parametric dimension reduction technique to transform US Treasury yield curve data spanning 20 years to time series of (β₁, β₂, β₃)
+- Applied parametric dimension reduction to transform US Treasury yield curve data spanning 20 years to time series of (β₁, β₂, β₃)
 - Analyzed regression results of macroeconomic variables on these new response features vs. OLS on original yield curve values 
 
 #### [Poker Hand vs Range Probability Tool](https://github.com/ren-jamie11/poker_gui)
