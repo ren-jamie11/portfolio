@@ -2,9 +2,9 @@
 
 I am eager to apply my quant finance background to data science, where I can help companies develop outstanding digital products for customers. I have experience:
 - Designing and implementing large-scale recommender systems
-- Building production-quality data pipelines and analytics tools 
-- Applying ML techniques to open-ended problems in both quant finance & tech
-
+- Building end-to-end data pipelines and analytics tools 
+- Applying ML techniques to construct predictive models
+  
 **Tech stack**
 Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beautiful soup), SQL
 
