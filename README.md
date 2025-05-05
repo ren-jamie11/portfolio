@@ -38,7 +38,7 @@ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beauti
 #### [Book Recommender with GoodReads Scraper](https://github.com/ren-jamie11/book_recommender/tree/main)
 
 - Personalized recommender using data collected with parallelized BeautifulSoup scraper (16K+ books, 175K+ users, 470K+ ratings) 
-- Utilizes collaborative filtering models to identify top 50 similar users based on user's book ratings and genre preferences
+- Utilizes collaborative filtering to generate recs from top 50 similar readers based on user's book ratings and genre preferences
 - Produces high-quality recommendations in <10 seconds by pulling personal Goodreads data from inputted user_ID
 - Full-stack project covering data engineering, product design, and ML techniques
 
