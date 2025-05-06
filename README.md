@@ -1,4 +1,4 @@
-# [Aspiring Data Scientist](https://www.linkedin.com/in/jren19/)
+# [Data Scientist](https://www.linkedin.com/in/jren19/)
 
 I am eager to apply my quant finance background to data science, where I can help companies develop outstanding digital products for customers. I have experience:
 - Designing and implementing large-scale recommender systems
